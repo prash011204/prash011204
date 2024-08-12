@@ -4,14 +4,9 @@ I'm Prashant, a passionate Computer Science Engineer with a strong interest in d
 
 Skills: C / JAVA / PYTHON 
 
-📫 How to reach me:
-
-📫 How to reach me:
-
-Email: your.prashantchandanshive05@gmail.com
-
-LinkedIn: linkedin.com/in/prashant-chandanshive-3bbb71313
-
+📫 **How to reach me:**
+- **Email:** [prashant@example.com](mailto:prashant@example.com)  
+- **LinkedIn:** [linkedin.com/in/prashantchandanshive](https://www.linkedin.com/in/prashantchandanshive)
 
 
 
