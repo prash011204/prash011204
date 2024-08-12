@@ -1,13 +1,12 @@
-# Hi there! 👋
+### Hi there 👋, Prashant Chandanshive
+![](https://media.licdn.com/dms/image/D4E12AQHsqGOwsIbvQg/article-cover_image-shrink_720_1280/0/1693358663074?e=2147483647&v=beta&t=PaSbJrEmVWfq2pSp_2dsSkA20YRpDlUEv14NPRNUY7M)
 
 I'm Prashant, a passionate Computer Science Engineer with a strong interest in data science. My expertise lies in Python, and database management.
 
-## 🌱 Currently Learning
-- [Python](#)
-- [MySQL](#)
+Skills: C / JAVA / PYTHON 
 
-## 📫 How to reach me
-- [Email](mailto:your.prashantchandanshive05@gmail.com)
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BhVZdprcDTjqmBgf6Z5RwXg%3D%3D)
+- 🔭 I’m currently working on this page. 
+
+
 
 
