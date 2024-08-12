@@ -2,7 +2,7 @@
 
 I'm Prashant, a passionate Computer Science Engineer with a strong interest in data science. My expertise lies in Python, and database management.
 
-Skills: C / JAVA / PYTHON 
+Skills: C / JAVA / PYTHON / MYSQL
 
 📫 **How to reach me:**
 - **Email:** [prashantchandanshive05@gmail.com](mailto:prashantchandanshive05@gmail.com)  
