@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Prashant (https://github.com/prash011204), a passionate developer and open source enthusiast.
+I'm Prashant, a passionate Computer Science Engineer with a strong interest in data science. My expertise lies in Python, and database management.
 
 ## 🌱 Currently Learning
 - [Python](#)
