@@ -9,7 +9,8 @@ Skills: C / JAVA / PYTHON
 📫 How to reach me:
 
 Email: your.prashantchandanshive05@gmail.com
-LinkedIn: linkedin.com/in/yourprofileprashant-chandanshive-3bbb71313
+
+LinkedIn: linkedin.com/in/prashant-chandanshive-3bbb71313
 
 
 
