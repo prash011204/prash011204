@@ -3,7 +3,7 @@ Hi 👋 My name is Prashant Chandanshive
 
 I'm Prashant, a passionate Computer Science Engineer with a strong interest in data science. My expertise lies in Python, and database management.
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * ✉️  You can contact me at [prashantchandanshive05@gmail.com](mailto:prashantchandanshive05@gmail.com)
 
 ### Skills
