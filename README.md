@@ -33,7 +33,7 @@ My expertise lies in **Python**, **MERN Stack**, and **Database Management**.
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/prashant_11204" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
 
