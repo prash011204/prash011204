@@ -37,7 +37,7 @@ My expertise lies in **Python**, **MERN Stack**, and **Database Management**.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
 </a>
 
-<a href="https://www.linkedin.com/in/prashant-chandanshive-3bbb71313" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/prashant-chandanshive" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
